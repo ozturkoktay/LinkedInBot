@@ -14,3 +14,6 @@ Then run: `python main.py`
 
 ## Logging
 After running `main.py` you can check visited profiles, logging process from `linkedin_view.log` file.
+
+## Licence
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
